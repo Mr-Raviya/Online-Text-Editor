@@ -6,5 +6,5 @@
 &emsp; • Feature 5️⃣ - Text Alignment (Left, Right, Justify, and Center)<br>
 &emsp; • Feature 6️⃣ - Undo and Redo<br>
 <br>
-&emsp; 🔰 JGR Karunathne<br>
+&emsp; 🔰 Name: JGR Karunathne<br>
 &emsp; 🔰 Index No: 2023t01871
