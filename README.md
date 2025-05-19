@@ -10,4 +10,4 @@
 &emsp; 🔰 Index No: 2023t01871
 <br>
 <br>
-&emsp; <a href="https://mr-raviya.github.io/Online-Text-Editor">Click here to open Online Text Editor</a>
+&emsp; <a href="https://mr-raviya.github.io/Online-Text-Editor" target="_blank">Click here to open Online Text Editor</a>
